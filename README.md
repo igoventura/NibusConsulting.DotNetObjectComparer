@@ -1,0 +1,2 @@
+# NibusConsulting.DotNetObjectComparer
+NibusConsulting.DotNetObjectComparer
